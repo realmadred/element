@@ -24,4 +24,18 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 安装webpack
+ 
+npm install webpack -g
+
+# 初始化项目使用vue-cli
+
+vue init webpack 项目名称
+
+# 安装element-ui
+
+npm i element-ui -S
+
+# 参考
+http://element-cn.eleme.io/#/zh-CN/component/quickstart
+
