@@ -55,6 +55,7 @@ export default {
   name: 'ButtonTest',
   data () {
     return {
+      buttons:[]
     }
   }
 }
